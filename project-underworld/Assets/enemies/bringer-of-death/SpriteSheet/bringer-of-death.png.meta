@@ -1,0 +1,3042 @@
+fileFormatVersion: 2
+guid: 7ceb0be2a8b1f234180d05563e3c2a25
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7412404609139229468
+    second: bringer-of-death_0
+  - first:
+      213: 1570025595711165505
+    second: bringer-of-death_1
+  - first:
+      213: 7417616624152857580
+    second: bringer-of-death_2
+  - first:
+      213: -2608954112698808301
+    second: bringer-of-death_3
+  - first:
+      213: -5567859258419633431
+    second: bringer-of-death_4
+  - first:
+      213: -402021972680871235
+    second: bringer-of-death_5
+  - first:
+      213: -6952927721629119948
+    second: bringer-of-death_6
+  - first:
+      213: -7279544756941186399
+    second: bringer-of-death_7
+  - first:
+      213: -1131984477640976979
+    second: bringer-of-death_8
+  - first:
+      213: -5145226257957202002
+    second: bringer-of-death_9
+  - first:
+      213: -8163301181513141584
+    second: bringer-of-death_10
+  - first:
+      213: 6013580712448707029
+    second: bringer-of-death_11
+  - first:
+      213: 550169363146420105
+    second: bringer-of-death_12
+  - first:
+      213: 4942552475500352979
+    second: bringer-of-death_13
+  - first:
+      213: -7783059195686458567
+    second: bringer-of-death_14
+  - first:
+      213: 2986666126390895943
+    second: bringer-of-death_15
+  - first:
+      213: 4254508116272805178
+    second: bringer-of-death_16
+  - first:
+      213: 1957011184055367203
+    second: bringer-of-death_17
+  - first:
+      213: 9028115134003025619
+    second: bringer-of-death_18
+  - first:
+      213: 6946706962596120392
+    second: bringer-of-death_19
+  - first:
+      213: -4156654719277141094
+    second: bringer-of-death_20
+  - first:
+      213: -8514932679479713269
+    second: bringer-of-death_21
+  - first:
+      213: -2304216924955464057
+    second: bringer-of-death_22
+  - first:
+      213: 4522336920557410787
+    second: bringer-of-death_23
+  - first:
+      213: -2477736646900484924
+    second: bringer-of-death_24
+  - first:
+      213: -2145232768618451494
+    second: bringer-of-death_25
+  - first:
+      213: 5063709142982777161
+    second: bringer-of-death_26
+  - first:
+      213: -2660252262823158997
+    second: bringer-of-death_27
+  - first:
+      213: 1017643923554249145
+    second: bringer-of-death_28
+  - first:
+      213: 1320910055679945805
+    second: bringer-of-death_29
+  - first:
+      213: 5841190679448174065
+    second: bringer-of-death_30
+  - first:
+      213: -4608192791173537553
+    second: bringer-of-death_31
+  - first:
+      213: -3135688221060875572
+    second: bringer-of-death_32
+  - first:
+      213: 7976006667497001679
+    second: bringer-of-death_33
+  - first:
+      213: -7334536707070199273
+    second: bringer-of-death_34
+  - first:
+      213: -2003723780047357247
+    second: bringer-of-death_35
+  - first:
+      213: -1664846999853242802
+    second: bringer-of-death_36
+  - first:
+      213: 3938935062256867934
+    second: bringer-of-death_37
+  - first:
+      213: 4917443671153181244
+    second: bringer-of-death_38
+  - first:
+      213: -8087552598617736212
+    second: bringer-of-death_39
+  - first:
+      213: -6151411953167626336
+    second: bringer-of-death_40
+  - first:
+      213: 2939789288132817267
+    second: bringer-of-death_41
+  - first:
+      213: 3588132007221356834
+    second: bringer-of-death_42
+  - first:
+      213: 1006460187147690706
+    second: bringer-of-death_43
+  - first:
+      213: -6867895883819068782
+    second: bringer-of-death_44
+  - first:
+      213: -5399404609456107901
+    second: bringer-of-death_45
+  - first:
+      213: -7540761948360242405
+    second: bringer-of-death_46
+  - first:
+      213: 1103299300440742322
+    second: bringer-of-death_47
+  - first:
+      213: 4173776284022578260
+    second: bringer-of-death_48
+  - first:
+      213: -8941664271381887066
+    second: bringer-of-death_49
+  - first:
+      213: -9218684508595786648
+    second: bringer-of-death_50
+  - first:
+      213: -1478851869087675066
+    second: bringer-of-death_51
+  - first:
+      213: 8713679825956455405
+    second: bringer-of-death_52
+  - first:
+      213: 3836213403364097880
+    second: bringer-of-death_53
+  - first:
+      213: 2547429147426654022
+    second: bringer-of-death_54
+  - first:
+      213: 3341538951419350894
+    second: bringer-of-death_55
+  - first:
+      213: -926430426239259960
+    second: bringer-of-death_56
+  - first:
+      213: 5120625245943910868
+    second: bringer-of-death_57
+  - first:
+      213: -4037407651396142153
+    second: bringer-of-death_58
+  - first:
+      213: 9077782169422638512
+    second: bringer-of-death_59
+  - first:
+      213: 3960726612272864319
+    second: bringer-of-death_60
+  - first:
+      213: 4530297832839346559
+    second: bringer-of-death_61
+  - first:
+      213: -7847270718904458868
+    second: bringer-of-death_62
+  - first:
+      213: -1714224846569955478
+    second: bringer-of-death_63
+  - first:
+      213: -9177928858420076802
+    second: bringer-of-death_64
+  - first:
+      213: 4965547218946252946
+    second: bringer-of-death_65
+  - first:
+      213: 8451091014176706459
+    second: bringer-of-death_66
+  - first:
+      213: 5248215254302512393
+    second: bringer-of-death_67
+  - first:
+      213: 236435243185559566
+    second: bringer-of-death_68
+  - first:
+      213: 7311743071676146370
+    second: bringer-of-death_69
+  - first:
+      213: 618594502820460778
+    second: bringer-of-death_70
+  - first:
+      213: 3150671938411968295
+    second: bringer-of-death_71
+  - first:
+      213: -6072187826004249459
+    second: bringer-of-death_72
+  - first:
+      213: -3472087587783537627
+    second: bringer-of-death_73
+  - first:
+      213: -6818430778869165415
+    second: bringer-of-death_74
+  - first:
+      213: -3528420172747318482
+    second: bringer-of-death_75
+  - first:
+      213: 4296179428098133282
+    second: bringer-of-death_76
+  - first:
+      213: -5756741442264273516
+    second: bringer-of-death_77
+  - first:
+      213: -5745159174371857
+    second: bringer-of-death_78
+  - first:
+      213: -785391141862250972
+    second: bringer-of-death_79
+  - first:
+      213: 1903338442446635555
+    second: bringer-of-death_80
+  - first:
+      213: -8083723717507431118
+    second: bringer-of-death_81
+  - first:
+      213: -2637656683409683481
+    second: bringer-of-death_82
+  - first:
+      213: -8326447866899878876
+    second: bringer-of-death_83
+  - first:
+      213: 7406567892503685164
+    second: bringer-of-death_84
+  - first:
+      213: 5483856763156887232
+    second: bringer-of-death_85
+  - first:
+      213: -999692153527301091
+    second: bringer-of-death_86
+  - first:
+      213: -1306005544966886541
+    second: bringer-of-death_87
+  - first:
+      213: 8293086188881140498
+    second: bringer-of-death_88
+  - first:
+      213: 4551528951126575222
+    second: bringer-of-death_89
+  - first:
+      213: 4648357935449653192
+    second: bringer-of-death_90
+  - first:
+      213: -3339246257730474187
+    second: bringer-of-death_91
+  - first:
+      213: -1333812764240790173
+    second: bringer-of-death_92
+  - first:
+      213: 7702367246578636884
+    second: bringer-of-death_93
+  - first:
+      213: -7729411332921083536
+    second: bringer-of-death_94
+  - first:
+      213: -2365162509211237940
+    second: bringer-of-death_95
+  - first:
+      213: -6068232480005187471
+    second: bringer-of-death_96
+  - first:
+      213: -4300323820002876133
+    second: bringer-of-death_97
+  - first:
+      213: 2574050760165307894
+    second: bringer-of-death_98
+  - first:
+      213: 4000476739194292424
+    second: bringer-of-death_99
+  - first:
+      213: -193369907094380665
+    second: bringer-of-death_100
+  - first:
+      213: -3995322884460414488
+    second: bringer-of-death_101
+  - first:
+      213: 6849806685054326275
+    second: bringer-of-death_102
+  - first:
+      213: 349227214315085128
+    second: bringer-of-death_103
+  - first:
+      213: -6503202026229696726
+    second: bringer-of-death_104
+  - first:
+      213: -8062180741531561215
+    second: bringer-of-death_105
+  - first:
+      213: -5752084441783580027
+    second: bringer-of-death_106
+  - first:
+      213: 3693512903401170277
+    second: bringer-of-death_107
+  - first:
+      213: -1045184667990647069
+    second: bringer-of-death_108
+  - first:
+      213: 603429549221654658
+    second: bringer-of-death_109
+  - first:
+      213: 609923706580059941
+    second: bringer-of-death_110
+  - first:
+      213: 4931147430618666860
+    second: bringer-of-death_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bringer-of-death_0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 651
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecb9c4d749d12990800000000000000
+      internalID: -7412404609139229468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_1
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 651
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14492a006f9d9c510800000000000000
+      internalID: 1570025595711165505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_2
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 651
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebc9aaf40ba0f660800000000000000
+      internalID: 7417616624152857580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_3
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 651
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3180b4dae022bcbd0800000000000000
+      internalID: -2608954112698808301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_4
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 651
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e22786118dfab2b0800000000000000
+      internalID: -5567859258419633431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_5
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 651
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db27476552bbb6af0800000000000000
+      internalID: -402021972680871235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_6
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 651
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a845b431d328f90800000000000000
+      internalID: -6952927721629119948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_7
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 651
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa96fbbc9cd9fa90800000000000000
+      internalID: -7279544756941186399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 558
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da514f67d126a40f0800000000000000
+      internalID: -1131984477640976979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_9
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 558
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7d27d9afb7898b0800000000000000
+      internalID: -5145226257957202002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_10
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 558
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2f16193d026be80800000000000000
+      internalID: -8163301181513141584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_11
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 558
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d945a1fbc7847350800000000000000
+      internalID: 6013580712448707029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_12
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 558
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f25a0fe1892a700800000000000000
+      internalID: 550169363146420105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_13
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 558
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d51de92a49779440800000000000000
+      internalID: 4942552475500352979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_14
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 558
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b654fd5e40df390800000000000000
+      internalID: -7783059195686458567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_15
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 558
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745a8369405c27920800000000000000
+      internalID: 2986666126390895943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_16
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 465
+        width: 121
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35f474279c0b0b30800000000000000
+      internalID: 4254508116272805178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_17
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 465
+        width: 110
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326361f9d43b82b10800000000000000
+      internalID: 1957011184055367203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_18
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 546
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d61491a1ee4a4d70800000000000000
+      internalID: 9028115134003025619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_19
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 534
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84746406d29a76060800000000000000
+      internalID: 6946706962596120392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_20
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 465
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93f8834e889056c0800000000000000
+      internalID: -4156654719277141094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_21
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 465
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b022f3197d1e4d980800000000000000
+      internalID: -8514932679479713269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_22
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 465
+        width: 135
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e269e3ae6c500e0800000000000000
+      internalID: -2304216924955464057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_23
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 530
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e95578087192ce30800000000000000
+      internalID: 4522336920557410787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_24
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 531
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c47782b5af4d9dd0800000000000000
+      internalID: -2477736646900484924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_25
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 532
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add28f1b92a9a32e0800000000000000
+      internalID: -2145232768618451494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_26
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 534
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949d26903a8e54640800000000000000
+      internalID: 5063709142982777161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_27
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 465
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b1f7d59a2e41bd0800000000000000
+      internalID: -2660252262823158997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_28
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 465
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9294bb1c56f1e00800000000000000
+      internalID: 1017643923554249145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_29
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 521
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c6b0972b0d45210800000000000000
+      internalID: 1320910055679945805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_30
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 521
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdb4d999f3101150800000000000000
+      internalID: 5841190679448174065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_31
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 494
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0e59952196c00c0800000000000000
+      internalID: -4608192791173537553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_32
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 472
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca3a413d2ccb74d0800000000000000
+      internalID: -3135688221060875572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_33
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 465
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc25e4e2ec770be60800000000000000
+      internalID: 7976006667497001679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_34
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 513
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a740799bd763a90800000000000000
+      internalID: -7334536707070199273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_35
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 492
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca364696d75134e0800000000000000
+      internalID: -2003723780047357247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_36
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 495
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e466f50797645e8e0800000000000000
+      internalID: -1664846999853242802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_37
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 481
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ad62bd198e9a630800000000000000
+      internalID: 3938935062256867934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_38
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 478
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32041617f44e3440800000000000000
+      internalID: 4917443671153181244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_39
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 440
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb3a11e2cd33cf80800000000000000
+      internalID: -8087552598617736212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_40
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 447
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af0a509b6bc1aaa0800000000000000
+      internalID: -6151411953167626336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_41
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 420
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371b7a928ca3cc820800000000000000
+      internalID: 2939789288132817267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_42
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 432
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22963a1cc0b9bc130800000000000000
+      internalID: 3588132007221356834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_43
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 422
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2e28f253aa7fd00800000000000000
+      internalID: 1006460187147690706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_44
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 403
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292d892d41550b0a0800000000000000
+      internalID: -6867895883819068782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_45
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 418
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e03ce6d167115b0800000000000000
+      internalID: -5399404609456107901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_46
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 398
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b843ce5f4d95790800000000000000
+      internalID: -7540761948360242405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_47
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 400
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b915b34ed4bf4f00800000000000000
+      internalID: 1103299300440742322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_48
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 410
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c9d1daa6b3ce930800000000000000
+      internalID: 4173776284022578260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_49
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 372
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a70b7b58b3d8e380800000000000000
+      internalID: -8941664271381887066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_50
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 372
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c60c83847a01080800000000000000
+      internalID: -9218684508595786648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_51
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 372
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d4b937f001a7be0800000000000000
+      internalID: -1478851869087675066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_52
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 372
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de34f9872a53de870800000000000000
+      internalID: 8713679825956455405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_53
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 372
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ffb16e3c7fc3530800000000000000
+      internalID: 3836213403364097880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_54
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 372
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64787de00594a5320800000000000000
+      internalID: 2547429147426654022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_55
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 372
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f4b7ad8f78f5e20800000000000000
+      internalID: 3341538951419350894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_56
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 372
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca25ee8f68a423f0800000000000000
+      internalID: -926430426239259960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_57
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 385
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1526ce78d101740800000000000000
+      internalID: 5120625245943910868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_58
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 386
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbb615d12f38f7c0800000000000000
+      internalID: -4037407651396142153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_59
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 384
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdafc479c2cafd70800000000000000
+      internalID: 9077782169422638512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_60
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 392
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cd5f87ed357f630800000000000000
+      internalID: 3960726612272864319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_61
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 279
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f797c1d50e9dede30800000000000000
+      internalID: 4530297832839346559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_62
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 284
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8120679bd4e81390800000000000000
+      internalID: -7847270718904458868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_63
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 298
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f9c0b9599d538e0800000000000000
+      internalID: -1714224846569955478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_64
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 297
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe901c745271a080800000000000000
+      internalID: -9177928858420076802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_65
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 341
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29068b413ea29e440800000000000000
+      internalID: 4965547218946252946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_66
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 306
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f8f78608e484570800000000000000
+      internalID: 8451091014176706459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_67
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 279
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905dc71b7f765d840800000000000000
+      internalID: 5248215254302512393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_68
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 279
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08557ad99cf74300800000000000000
+      internalID: 236435243185559566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_69
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 313
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c22e2c9597887560800000000000000
+      internalID: 7311743071676146370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_70
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 306
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae87f904c60b59800800000000000000
+      internalID: 618594502820460778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_71
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 319
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72736dc5f6f69bb20800000000000000
+      internalID: 3150671938411968295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_72
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 271
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84b09518514bbba0800000000000000
+      internalID: -6072187826004249459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_73
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 307
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c8e1d1cbaa0dfc0800000000000000
+      internalID: -3472087587783537627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_74
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 292
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992d9eb05511061a0800000000000000
+      internalID: -6818430778869165415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_75
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 304
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bd2191c88880fc0800000000000000
+      internalID: -3528420172747318482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_76
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 186
+        width: 51
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d412f7d681f9b30800000000000000
+      internalID: 4296179428098133282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_77
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 186
+        width: 53
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d6116a822fb10b0800000000000000
+      internalID: -5756741442264273516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_78
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 270
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5cb34eec69beff0800000000000000
+      internalID: -5745159174371857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_79
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 268
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426ef8beaeab915f0800000000000000
+      internalID: -785391141862250972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_80
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 271
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3228065aa340a6a10800000000000000
+      internalID: 1903338442446635555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_81
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 263
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235c19bbb18d0df80800000000000000
+      internalID: -8083723717507431118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_82
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 254
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb4ee9a839256bd0800000000000000
+      internalID: -2637656683409683481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_83
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 263
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42caf9cc7c3827c80800000000000000
+      internalID: -8326447866899878876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_84
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 252
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28ee7da14a69c660800000000000000
+      internalID: 7406567892503685164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_85
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 186
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6f61fdba29a1c40800000000000000
+      internalID: 5483856763156887232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_86
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 186
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c824078416022f0800000000000000
+      internalID: -999692153527301091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_87
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 186
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bee8950e220ede0800000000000000
+      internalID: -1306005544966886541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_88
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 186
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b55fb33f5f61370800000000000000
+      internalID: 8293086188881140498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_89
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 215
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6784ecc47774a2f30800000000000000
+      internalID: 4551528951126575222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_90
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 186
+        width: 41
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf385b0ae8428040800000000000000
+      internalID: 4648357935449653192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_91
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 186
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f2c6e783d98a1d0800000000000000
+      internalID: -3339246257730474187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_92
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 131
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36dbb869b585d7de0800000000000000
+      internalID: -1333812764240790173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_93
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 131
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4585ceda33e44ea60800000000000000
+      internalID: 7702367246578636884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_94
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 132
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0793c5a485d9bb490800000000000000
+      internalID: -7729411332921083536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_95
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 132
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc18462aa314d2fd0800000000000000
+      internalID: -2365162509211237940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_96
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 127
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1789dc6d5be49cba0800000000000000
+      internalID: -6068232480005187471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_97
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 114
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15e391154e2254c0800000000000000
+      internalID: -4300323820002876133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_98
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 97
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f53a79478dd8b320800000000000000
+      internalID: 2574050760165307894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_99
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 93
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c883eb166c848730800000000000000
+      internalID: 4000476739194292424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_100
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f93611813015df0800000000000000
+      internalID: -193369907094380665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_101
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e97fb43103cd88c0800000000000000
+      internalID: -3995322884460414488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_102
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30652c263e66f0f50800000000000000
+      internalID: 6849806685054326275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_103
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 36
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d56271d44b8d400800000000000000
+      internalID: 349227214315085128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_104
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 30
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a277afb663cffb5a0800000000000000
+      internalID: -6503202026229696726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_105
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 23
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1031402b4516d1090800000000000000
+      internalID: -8062180741531561215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_106
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 39
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a40711dad7c20b0800000000000000
+      internalID: -5752084441783580027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_107
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 38
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5656c84aa6ef14330800000000000000
+      internalID: 3693512903401170277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_108
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 38
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee9bb30512ce71f0800000000000000
+      internalID: -1045184667990647069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_109
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 0
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280b4585affcf5800800000000000000
+      internalID: 603429549221654658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_110
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 9
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5274bce2162e67800800000000000000
+      internalID: 609923706580059941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bringer-of-death_111
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c671b193674fe6440800000000000000
+      internalID: 4931147430618666860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bringer-of-death_0: -7412404609139229468
+      bringer-of-death_1: 1570025595711165505
+      bringer-of-death_10: -8163301181513141584
+      bringer-of-death_100: -193369907094380665
+      bringer-of-death_101: -3995322884460414488
+      bringer-of-death_102: 6849806685054326275
+      bringer-of-death_103: 349227214315085128
+      bringer-of-death_104: -6503202026229696726
+      bringer-of-death_105: -8062180741531561215
+      bringer-of-death_106: -5752084441783580027
+      bringer-of-death_107: 3693512903401170277
+      bringer-of-death_108: -1045184667990647069
+      bringer-of-death_109: 603429549221654658
+      bringer-of-death_11: 6013580712448707029
+      bringer-of-death_110: 609923706580059941
+      bringer-of-death_111: 4931147430618666860
+      bringer-of-death_12: 550169363146420105
+      bringer-of-death_13: 4942552475500352979
+      bringer-of-death_14: -7783059195686458567
+      bringer-of-death_15: 2986666126390895943
+      bringer-of-death_16: 4254508116272805178
+      bringer-of-death_17: 1957011184055367203
+      bringer-of-death_18: 9028115134003025619
+      bringer-of-death_19: 6946706962596120392
+      bringer-of-death_2: 7417616624152857580
+      bringer-of-death_20: -4156654719277141094
+      bringer-of-death_21: -8514932679479713269
+      bringer-of-death_22: -2304216924955464057
+      bringer-of-death_23: 4522336920557410787
+      bringer-of-death_24: -2477736646900484924
+      bringer-of-death_25: -2145232768618451494
+      bringer-of-death_26: 5063709142982777161
+      bringer-of-death_27: -2660252262823158997
+      bringer-of-death_28: 1017643923554249145
+      bringer-of-death_29: 1320910055679945805
+      bringer-of-death_3: -2608954112698808301
+      bringer-of-death_30: 5841190679448174065
+      bringer-of-death_31: -4608192791173537553
+      bringer-of-death_32: -3135688221060875572
+      bringer-of-death_33: 7976006667497001679
+      bringer-of-death_34: -7334536707070199273
+      bringer-of-death_35: -2003723780047357247
+      bringer-of-death_36: -1664846999853242802
+      bringer-of-death_37: 3938935062256867934
+      bringer-of-death_38: 4917443671153181244
+      bringer-of-death_39: -8087552598617736212
+      bringer-of-death_4: -5567859258419633431
+      bringer-of-death_40: -6151411953167626336
+      bringer-of-death_41: 2939789288132817267
+      bringer-of-death_42: 3588132007221356834
+      bringer-of-death_43: 1006460187147690706
+      bringer-of-death_44: -6867895883819068782
+      bringer-of-death_45: -5399404609456107901
+      bringer-of-death_46: -7540761948360242405
+      bringer-of-death_47: 1103299300440742322
+      bringer-of-death_48: 4173776284022578260
+      bringer-of-death_49: -8941664271381887066
+      bringer-of-death_5: -402021972680871235
+      bringer-of-death_50: -9218684508595786648
+      bringer-of-death_51: -1478851869087675066
+      bringer-of-death_52: 8713679825956455405
+      bringer-of-death_53: 3836213403364097880
+      bringer-of-death_54: 2547429147426654022
+      bringer-of-death_55: 3341538951419350894
+      bringer-of-death_56: -926430426239259960
+      bringer-of-death_57: 5120625245943910868
+      bringer-of-death_58: -4037407651396142153
+      bringer-of-death_59: 9077782169422638512
+      bringer-of-death_6: -6952927721629119948
+      bringer-of-death_60: 3960726612272864319
+      bringer-of-death_61: 4530297832839346559
+      bringer-of-death_62: -7847270718904458868
+      bringer-of-death_63: -1714224846569955478
+      bringer-of-death_64: -9177928858420076802
+      bringer-of-death_65: 4965547218946252946
+      bringer-of-death_66: 8451091014176706459
+      bringer-of-death_67: 5248215254302512393
+      bringer-of-death_68: 236435243185559566
+      bringer-of-death_69: 7311743071676146370
+      bringer-of-death_7: -7279544756941186399
+      bringer-of-death_70: 618594502820460778
+      bringer-of-death_71: 3150671938411968295
+      bringer-of-death_72: -6072187826004249459
+      bringer-of-death_73: -3472087587783537627
+      bringer-of-death_74: -6818430778869165415
+      bringer-of-death_75: -3528420172747318482
+      bringer-of-death_76: 4296179428098133282
+      bringer-of-death_77: -5756741442264273516
+      bringer-of-death_78: -5745159174371857
+      bringer-of-death_79: -785391141862250972
+      bringer-of-death_8: -1131984477640976979
+      bringer-of-death_80: 1903338442446635555
+      bringer-of-death_81: -8083723717507431118
+      bringer-of-death_82: -2637656683409683481
+      bringer-of-death_83: -8326447866899878876
+      bringer-of-death_84: 7406567892503685164
+      bringer-of-death_85: 5483856763156887232
+      bringer-of-death_86: -999692153527301091
+      bringer-of-death_87: -1306005544966886541
+      bringer-of-death_88: 8293086188881140498
+      bringer-of-death_89: 4551528951126575222
+      bringer-of-death_9: -5145226257957202002
+      bringer-of-death_90: 4648357935449653192
+      bringer-of-death_91: -3339246257730474187
+      bringer-of-death_92: -1333812764240790173
+      bringer-of-death_93: 7702367246578636884
+      bringer-of-death_94: -7729411332921083536
+      bringer-of-death_95: -2365162509211237940
+      bringer-of-death_96: -6068232480005187471
+      bringer-of-death_97: -4300323820002876133
+      bringer-of-death_98: 2574050760165307894
+      bringer-of-death_99: 4000476739194292424
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

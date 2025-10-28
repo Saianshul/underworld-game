@@ -1,0 +1,2808 @@
+fileFormatVersion: 2
+guid: 7a082fac714529c4b961304177b0024b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7342041184709251701
+    second: '!Demon Door_0'
+  - first:
+      213: -5610388715750994058
+    second: '!Demon Door_1'
+  - first:
+      213: 9144418524347618222
+    second: '!Demon Door_2'
+  - first:
+      213: -5450543793066533036
+    second: '!Demon Door_3'
+  - first:
+      213: 5171089170985717299
+    second: '!Demon Door_4'
+  - first:
+      213: -5890407595230158577
+    second: '!Demon Door_5'
+  - first:
+      213: 4452734027222299919
+    second: '!Demon Door_6'
+  - first:
+      213: 4808927465213920060
+    second: '!Demon Door_7'
+  - first:
+      213: 5423484715082821429
+    second: '!Demon Door_8'
+  - first:
+      213: -4050513784649023378
+    second: '!Demon Door_9'
+  - first:
+      213: -1306426859240586634
+    second: '!Demon Door_10'
+  - first:
+      213: -1241971036564382873
+    second: '!Demon Door_11'
+  - first:
+      213: 2289276670447815504
+    second: '!Demon Door_12'
+  - first:
+      213: -6069472128546960208
+    second: '!Demon Door_13'
+  - first:
+      213: -6141430246812526321
+    second: '!Demon Door_14'
+  - first:
+      213: 3557339148398261486
+    second: '!Demon Door_15'
+  - first:
+      213: 89045890232157294
+    second: '!Demon Door_16'
+  - first:
+      213: 669081760157529940
+    second: '!Demon Door_17'
+  - first:
+      213: -4067427810241413029
+    second: '!Demon Door_18'
+  - first:
+      213: -6289233632079083223
+    second: '!Demon Door_19'
+  - first:
+      213: 3748997344300848799
+    second: '!Demon Door_20'
+  - first:
+      213: -8683452022087806870
+    second: '!Demon Door_21'
+  - first:
+      213: -6804559897237789172
+    second: '!Demon Door_22'
+  - first:
+      213: -8503365393684835220
+    second: '!Demon Door_23'
+  - first:
+      213: -207908083694967232
+    second: '!Demon Door_24'
+  - first:
+      213: -1792632850428840731
+    second: '!Demon Door_25'
+  - first:
+      213: -6503191712392235991
+    second: '!Demon Door_26'
+  - first:
+      213: 3765053419295257580
+    second: '!Demon Door_27'
+  - first:
+      213: 2855495332898071244
+    second: '!Demon Door_28'
+  - first:
+      213: -12343356822519829
+    second: '!Demon Door_29'
+  - first:
+      213: -4310734443870732497
+    second: '!Demon Door_30'
+  - first:
+      213: 3903902388023086376
+    second: '!Demon Door_31'
+  - first:
+      213: -3357699231046069662
+    second: '!Demon Door_32'
+  - first:
+      213: -1279688271582121322
+    second: '!Demon Door_33'
+  - first:
+      213: -1910451961813258506
+    second: '!Demon Door_34'
+  - first:
+      213: -5511748149596824710
+    second: '!Demon Door_35'
+  - first:
+      213: -780923512043526202
+    second: '!Demon Door_36'
+  - first:
+      213: -2279281727511527275
+    second: '!Demon Door_37'
+  - first:
+      213: 7861465699552203203
+    second: '!Demon Door_38'
+  - first:
+      213: -5188101211753378627
+    second: '!Demon Door_39'
+  - first:
+      213: 4223590355075587013
+    second: '!Demon Door_40'
+  - first:
+      213: 761062711621325666
+    second: '!Demon Door_41'
+  - first:
+      213: -2377124646035819965
+    second: '!Demon Door_42'
+  - first:
+      213: 2508439459512442658
+    second: '!Demon Door_43'
+  - first:
+      213: -5172197249641718905
+    second: '!Demon Door_44'
+  - first:
+      213: 8991189209245370990
+    second: '!Demon Door_45'
+  - first:
+      213: 5538533076231313372
+    second: '!Demon Door_46'
+  - first:
+      213: -7546866592557825588
+    second: '!Demon Door_47'
+  - first:
+      213: -7539396822571191440
+    second: '!Demon Door_48'
+  - first:
+      213: 4643955514644687960
+    second: '!Demon Door_49'
+  - first:
+      213: 8481244826583636500
+    second: '!Demon Door_50'
+  - first:
+      213: 6415566262575723015
+    second: '!Demon Door_51'
+  - first:
+      213: 2948115197540818688
+    second: '!Demon Door_52'
+  - first:
+      213: 5924226066548284089
+    second: '!Demon Door_53'
+  - first:
+      213: -3287877109336471351
+    second: '!Demon Door_54'
+  - first:
+      213: 8092747245730457269
+    second: '!Demon Door_55'
+  - first:
+      213: -5227097580486542893
+    second: '!Demon Door_56'
+  - first:
+      213: 653637063943260686
+    second: '!Demon Door_57'
+  - first:
+      213: -3636621614632191585
+    second: '!Demon Door_58'
+  - first:
+      213: 2549164003106245105
+    second: '!Demon Door_59'
+  - first:
+      213: -1787499981557727432
+    second: '!Demon Door_60'
+  - first:
+      213: -8099714217882947809
+    second: '!Demon Door_61'
+  - first:
+      213: -7474542936526738241
+    second: '!Demon Door_62'
+  - first:
+      213: -6876555552446352396
+    second: '!Demon Door_63'
+  - first:
+      213: 6896138411076516131
+    second: '!Demon Door_64'
+  - first:
+      213: 3290099151457455499
+    second: '!Demon Door_65'
+  - first:
+      213: -795865687737472092
+    second: '!Demon Door_66'
+  - first:
+      213: -8160370260403917583
+    second: '!Demon Door_67'
+  - first:
+      213: -8645921422568074977
+    second: '!Demon Door_68'
+  - first:
+      213: 4855457998321058919
+    second: '!Demon Door_69'
+  - first:
+      213: 2375004248320772931
+    second: '!Demon Door_70'
+  - first:
+      213: 4121861136427629859
+    second: '!Demon Door_71'
+  - first:
+      213: -698582321158632632
+    second: '!Demon Door_72'
+  - first:
+      213: 5017876527796983880
+    second: '!Demon Door_73'
+  - first:
+      213: 4319018563111313063
+    second: '!Demon Door_74'
+  - first:
+      213: -2440712088594287679
+    second: '!Demon Door_75'
+  - first:
+      213: 6353509543659654011
+    second: '!Demon Door_76'
+  - first:
+      213: -7278690107938184127
+    second: '!Demon Door_77'
+  - first:
+      213: -2008696569877243683
+    second: '!Demon Door_78'
+  - first:
+      213: -6473092672222780655
+    second: '!Demon Door_79'
+  - first:
+      213: -961264923262256816
+    second: '!Demon Door_80'
+  - first:
+      213: 2040716049497657627
+    second: '!Demon Door_81'
+  - first:
+      213: 629874973526776595
+    second: '!Demon Door_82'
+  - first:
+      213: -7220146193202308252
+    second: '!Demon Door_83'
+  - first:
+      213: 7168638861897765457
+    second: '!Demon Door_84'
+  - first:
+      213: 4159660493034433931
+    second: '!Demon Door_85'
+  - first:
+      213: 7183132850836743841
+    second: '!Demon Door_86'
+  - first:
+      213: -9127076311831803343
+    second: '!Demon Door_87'
+  - first:
+      213: 3326602093647274646
+    second: '!Demon Door_88'
+  - first:
+      213: -1521638736661068630
+    second: '!Demon Door_89'
+  - first:
+      213: -9116642944189901552
+    second: '!Demon Door_90'
+  - first:
+      213: 1420332129223437190
+    second: '!Demon Door_91'
+  - first:
+      213: 7067615272551123801
+    second: '!Demon Door_92'
+  - first:
+      213: -7890663735680863287
+    second: '!Demon Door_93'
+  - first:
+      213: 7123979529208527007
+    second: '!Demon Door_94'
+  - first:
+      213: 6508334520360640858
+    second: '!Demon Door_95'
+  - first:
+      213: 9030868475424857932
+    second: '!Demon Door_96'
+  - first:
+      213: -1993877393079810966
+    second: '!Demon Door_97'
+  - first:
+      213: -1457047100446991651
+    second: '!Demon Door_98'
+  - first:
+      213: 2776106529063672308
+    second: '!Demon Door_99'
+  - first:
+      213: 2297343819174294571
+    second: '!Demon Door_100'
+  - first:
+      213: -3085064554409982641
+    second: '!Demon Door_101'
+  - first:
+      213: -258758777556419682
+    second: '!Demon Door_102'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!Demon Door_0'
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1770
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ded1b3174db1a90800000000000000
+      internalID: -7342041184709251701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_1'
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1770
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f4dc92035e322b0800000000000000
+      internalID: -5610388715750994058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_2'
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1770
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3dd3dd23087ee70800000000000000
+      internalID: 9144418524347618222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_3'
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1770
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f1f856c47cb54b0800000000000000
+      internalID: -5450543793066533036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_4'
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1770
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e0972143663c740800000000000000
+      internalID: 5171089170985717299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_5'
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1770
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f012b083081114ea0800000000000000
+      internalID: -5890407595230158577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_6'
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1770
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0531e3910a4bcd30800000000000000
+      internalID: 4452734027222299919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_7'
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 1770
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3302b20d0ebcb240800000000000000
+      internalID: 4808927465213920060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_8'
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1770
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fa54f0d96144b40800000000000000
+      internalID: 5423484715082821429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_9'
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 1720
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e600c246c2fa9c7c0800000000000000
+      internalID: -4050513784649023378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_10'
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 1720
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6728fe971b3aedde0800000000000000
+      internalID: -1306426859240586634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_11'
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 1720
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b91482ce1a3cee0800000000000000
+      internalID: -1241971036564382873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_12'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1674
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b81aea00525cf10800000000000000
+      internalID: 2289276670447815504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_13'
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1530
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc03dba147e4cba0800000000000000
+      internalID: -6069472128546960208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_14'
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1530
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0956edaab145caa0800000000000000
+      internalID: -6141430246812526321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_15'
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1530
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee47edd9b153e5130800000000000000
+      internalID: 3557339148398261486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_16'
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1525
+        width: 156
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e640fffe3ca5c3100800000000000000
+      internalID: 89045890232157294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_17'
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1525
+        width: 156
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457f1efd05e094900800000000000000
+      internalID: 669081760157529940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_18'
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1525
+        width: 156
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50040de4f79d87c0800000000000000
+      internalID: -4067427810241413029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_19'
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1530
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9298c7a555728b8a0800000000000000
+      internalID: -6289233632079083223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_20'
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 1530
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f965feab83d170430800000000000000
+      internalID: 3748997344300848799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_21'
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1530
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a601f4f846e2e7780800000000000000
+      internalID: -8683452022087806870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_22'
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 1480
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06e54853d85191a0800000000000000
+      internalID: -6804559897237789172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_23'
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 1480
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64d01a2a3afdf980800000000000000
+      internalID: -8503365393684835220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_24'
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 1480
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046ed6d03bc5d1df0800000000000000
+      internalID: -207908083694967232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_25'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1434
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e43e799be94f17e0800000000000000
+      internalID: -1792632850428840731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_26'
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1290
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924b89cc79500c5a0800000000000000
+      internalID: -6503191712392235991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_27'
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1290
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3b6710328204430800000000000000
+      internalID: 3765053419295257580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_28'
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1290
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2ec2f40e1c0a720800000000000000
+      internalID: 2855495332898071244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_29'
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1282
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beff14948c524dff0800000000000000
+      internalID: -12343356822519829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_30'
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1282
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f3b00dcd13d24c0800000000000000
+      internalID: -4310734443870732497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_31'
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1282
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d4ae3c9827d2630800000000000000
+      internalID: 3903902388023086376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_32'
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1290
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26295e6d65e0761d0800000000000000
+      internalID: -3357699231046069662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_33'
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 1290
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6923d1d0c42ad3ee0800000000000000
+      internalID: -1279688271582121322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_34'
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1290
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe2caf0016bc75e0800000000000000
+      internalID: -1910451961813258506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_35'
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 1240
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b5ddba2465283b0800000000000000
+      internalID: -5511748149596824710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_36'
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 1240
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c725eb043a9925f0800000000000000
+      internalID: -780923512043526202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_37'
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 1240
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59003a0585d5e50e0800000000000000
+      internalID: -2279281727511527275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_38'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1194
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c11ab3e669891d60800000000000000
+      internalID: 7861465699552203203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_39'
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1050
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc8aa68f692008b0800000000000000
+      internalID: -5188101211753378627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_40'
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1050
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbdb07ec053d9a30800000000000000
+      internalID: 4223590355075587013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_41'
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1050
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2631cf10186df8a00800000000000000
+      internalID: 761062711621325666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_42'
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1035
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342753e9ab1c20fd0800000000000000
+      internalID: -2377124646035819965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_43'
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1035
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fdfcce564cfc220800000000000000
+      internalID: 2508439459512442658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_44'
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1035
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b5ad2410aa838b0800000000000000
+      internalID: -5172197249641718905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_45'
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1050
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a456dc2fe17cc70800000000000000
+      internalID: 8991189209245370990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_46'
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 1050
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7d4890d72dcdc40800000000000000
+      internalID: 5538533076231313372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_47'
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1050
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1045fa1d4244790800000000000000
+      internalID: -7546866592557825588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_48'
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 1000
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0737fe9098eae5790800000000000000
+      internalID: -7539396822571191440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_49'
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 1000
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cec139fe4a27040800000000000000
+      internalID: 4643955514644687960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_50'
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 1000
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a13a5fb3f63b570800000000000000
+      internalID: 8481244826583636500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_51'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 954
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7027ec1568ba80950800000000000000
+      internalID: 6415566262575723015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_52'
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 810
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fd952072fc9e820800000000000000
+      internalID: 2948115197540818688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_53'
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 810
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba58b93834173250800000000000000
+      internalID: 5924226066548284089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_54'
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 810
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c88cd0603d1f52d0800000000000000
+      internalID: -3287877109336471351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_55'
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 810
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6e8c62eb63f4070800000000000000
+      internalID: 8092747245730457269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_56'
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 810
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9bbc4e17e9577b0800000000000000
+      internalID: -5227097580486542893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_57'
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 810
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a0e50527f221900800000000000000
+      internalID: 653637063943260686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_58'
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 810
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99375db8ef188dc0800000000000000
+      internalID: -3636621614632191585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_59'
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 810
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f94c5f9723706320800000000000000
+      internalID: 2549164003106245105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_60'
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 810
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ffb33cc368137e0800000000000000
+      internalID: -1787499981557727432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_61'
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 760
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fe7ec35d8089f80800000000000000
+      internalID: -8099714217882947809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_62'
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 760
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc2be11dc6154890800000000000000
+      internalID: -7474542936526738241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_63'
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 760
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3f13a98219190a0800000000000000
+      internalID: -6876555552446352396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_64'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 714
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329742af85104bf50800000000000000
+      internalID: 6896138411076516131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_65'
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 570
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d8f6e1fb7c8ad20800000000000000
+      internalID: 3290099151457455499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_66'
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 570
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab6c79af5484f4f0800000000000000
+      internalID: -795865687737472092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_67'
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 570
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc66f0db7a80ce80800000000000000
+      internalID: -8160370260403917583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_68'
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 565
+        width: 156
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11d3e33644830880800000000000000
+      internalID: -8645921422568074977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_69'
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 565
+        width: 156
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76481cbf25d026340800000000000000
+      internalID: 4855457998321058919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_70'
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 565
+        width: 156
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b0431d7c5b5f020800000000000000
+      internalID: 2375004248320772931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_71'
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 570
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32db1427ddac33930800000000000000
+      internalID: 4121861136427629859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_72'
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 570
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bc8f484132e46f0800000000000000
+      internalID: -698582321158632632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_73'
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 570
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8481c1ebd1413a540800000000000000
+      internalID: 5017876527796983880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_74'
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 520
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae5190008c30fb30800000000000000
+      internalID: 4319018563111313063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_75'
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 520
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3f5507949d02ed0800000000000000
+      internalID: -2440712088594287679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_76'
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 520
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b43e284433c2850800000000000000
+      internalID: 6353509543659654011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_77'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 474
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144e13639e5ecfa90800000000000000
+      internalID: -7278690107938184127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_78'
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 330
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8dbeabc1daf14e0800000000000000
+      internalID: -2008696569877243683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_79'
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 330
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1132af1b284fa26a0800000000000000
+      internalID: -6473092672222780655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_80'
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 330
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059f8e135a6e8a2f0800000000000000
+      internalID: -961264923262256816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_81'
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 322
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b111fb15f64125c10800000000000000
+      internalID: 2040716049497657627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_82'
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 322
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bd8f183f3cdb800800000000000000
+      internalID: 629874973526776595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_83'
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 322
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b99cf8a43eccb90800000000000000
+      internalID: -7220146193202308252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_84'
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 330
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1521a76501f1c7360800000000000000
+      internalID: 7168638861897765457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_85'
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 330
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d2b89fd251ab930800000000000000
+      internalID: 4159660493034433931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_86'
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 330
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6209c154d9fa360800000000000000
+      internalID: 7183132850836743841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_87'
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 280
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a0263a37c165180800000000000000
+      internalID: -9127076311831803343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_88'
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 280
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692aae4aaf67a2e20800000000000000
+      internalID: 3326602093647274646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_89'
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 280
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4c7d881ad02eae0800000000000000
+      internalID: -1521638736661068630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_90'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0155d775b8d2b7180800000000000000
+      internalID: -9116642944189901552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_91'
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 90
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bef69db8806b310800000000000000
+      internalID: 1420332129223437190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_92'
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 90
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b098105a6351260800000000000000
+      internalID: 7067615272551123801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_93'
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 90
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c37fa0932bbe7290800000000000000
+      internalID: -7890663735680863287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_94'
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 75
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98f0a923a57dd260800000000000000
+      internalID: 7123979529208527007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_95'
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 75
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51228d73cf325a50800000000000000
+      internalID: 6508334520360640858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_96'
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 75
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fd8f2e707145d70800000000000000
+      internalID: 9030868475424857932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_97'
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 90
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64cbc333135454e0800000000000000
+      internalID: -1993877393079810966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_98'
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 90
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda18d4c16787cbe0800000000000000
+      internalID: -1457047100446991651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_99'
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 90
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f99b730e26b68620800000000000000
+      internalID: 2776106529063672308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_100'
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 40
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24b2dc180ec1ef10800000000000000
+      internalID: 2297343819174294571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_101'
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 40
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f458e351226af25d0800000000000000
+      internalID: -3085064554409982641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Demon Door_102'
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 40
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b3c354344b86cf0800000000000000
+      internalID: -258758777556419682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!Demon Door_0': -7342041184709251701
+      '!Demon Door_1': -5610388715750994058
+      '!Demon Door_10': -1306426859240586634
+      '!Demon Door_100': 2297343819174294571
+      '!Demon Door_101': -3085064554409982641
+      '!Demon Door_102': -258758777556419682
+      '!Demon Door_11': -1241971036564382873
+      '!Demon Door_12': 2289276670447815504
+      '!Demon Door_13': -6069472128546960208
+      '!Demon Door_14': -6141430246812526321
+      '!Demon Door_15': 3557339148398261486
+      '!Demon Door_16': 89045890232157294
+      '!Demon Door_17': 669081760157529940
+      '!Demon Door_18': -4067427810241413029
+      '!Demon Door_19': -6289233632079083223
+      '!Demon Door_2': 9144418524347618222
+      '!Demon Door_20': 3748997344300848799
+      '!Demon Door_21': -8683452022087806870
+      '!Demon Door_22': -6804559897237789172
+      '!Demon Door_23': -8503365393684835220
+      '!Demon Door_24': -207908083694967232
+      '!Demon Door_25': -1792632850428840731
+      '!Demon Door_26': -6503191712392235991
+      '!Demon Door_27': 3765053419295257580
+      '!Demon Door_28': 2855495332898071244
+      '!Demon Door_29': -12343356822519829
+      '!Demon Door_3': -5450543793066533036
+      '!Demon Door_30': -4310734443870732497
+      '!Demon Door_31': 3903902388023086376
+      '!Demon Door_32': -3357699231046069662
+      '!Demon Door_33': -1279688271582121322
+      '!Demon Door_34': -1910451961813258506
+      '!Demon Door_35': -5511748149596824710
+      '!Demon Door_36': -780923512043526202
+      '!Demon Door_37': -2279281727511527275
+      '!Demon Door_38': 7861465699552203203
+      '!Demon Door_39': -5188101211753378627
+      '!Demon Door_4': 5171089170985717299
+      '!Demon Door_40': 4223590355075587013
+      '!Demon Door_41': 761062711621325666
+      '!Demon Door_42': -2377124646035819965
+      '!Demon Door_43': 2508439459512442658
+      '!Demon Door_44': -5172197249641718905
+      '!Demon Door_45': 8991189209245370990
+      '!Demon Door_46': 5538533076231313372
+      '!Demon Door_47': -7546866592557825588
+      '!Demon Door_48': -7539396822571191440
+      '!Demon Door_49': 4643955514644687960
+      '!Demon Door_5': -5890407595230158577
+      '!Demon Door_50': 8481244826583636500
+      '!Demon Door_51': 6415566262575723015
+      '!Demon Door_52': 2948115197540818688
+      '!Demon Door_53': 5924226066548284089
+      '!Demon Door_54': -3287877109336471351
+      '!Demon Door_55': 8092747245730457269
+      '!Demon Door_56': -5227097580486542893
+      '!Demon Door_57': 653637063943260686
+      '!Demon Door_58': -3636621614632191585
+      '!Demon Door_59': 2549164003106245105
+      '!Demon Door_6': 4452734027222299919
+      '!Demon Door_60': -1787499981557727432
+      '!Demon Door_61': -8099714217882947809
+      '!Demon Door_62': -7474542936526738241
+      '!Demon Door_63': -6876555552446352396
+      '!Demon Door_64': 6896138411076516131
+      '!Demon Door_65': 3290099151457455499
+      '!Demon Door_66': -795865687737472092
+      '!Demon Door_67': -8160370260403917583
+      '!Demon Door_68': -8645921422568074977
+      '!Demon Door_69': 4855457998321058919
+      '!Demon Door_7': 4808927465213920060
+      '!Demon Door_70': 2375004248320772931
+      '!Demon Door_71': 4121861136427629859
+      '!Demon Door_72': -698582321158632632
+      '!Demon Door_73': 5017876527796983880
+      '!Demon Door_74': 4319018563111313063
+      '!Demon Door_75': -2440712088594287679
+      '!Demon Door_76': 6353509543659654011
+      '!Demon Door_77': -7278690107938184127
+      '!Demon Door_78': -2008696569877243683
+      '!Demon Door_79': -6473092672222780655
+      '!Demon Door_8': 5423484715082821429
+      '!Demon Door_80': -961264923262256816
+      '!Demon Door_81': 2040716049497657627
+      '!Demon Door_82': 629874973526776595
+      '!Demon Door_83': -7220146193202308252
+      '!Demon Door_84': 7168638861897765457
+      '!Demon Door_85': 4159660493034433931
+      '!Demon Door_86': 7183132850836743841
+      '!Demon Door_87': -9127076311831803343
+      '!Demon Door_88': 3326602093647274646
+      '!Demon Door_89': -1521638736661068630
+      '!Demon Door_9': -4050513784649023378
+      '!Demon Door_90': -9116642944189901552
+      '!Demon Door_91': 1420332129223437190
+      '!Demon Door_92': 7067615272551123801
+      '!Demon Door_93': -7890663735680863287
+      '!Demon Door_94': 7123979529208527007
+      '!Demon Door_95': 6508334520360640858
+      '!Demon Door_96': 9030868475424857932
+      '!Demon Door_97': -1993877393079810966
+      '!Demon Door_98': -1457047100446991651
+      '!Demon Door_99': 2776106529063672308
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
