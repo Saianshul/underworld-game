@@ -10,6 +10,8 @@ jobs:
   build:
     name: Build Project (WebGL)
     runs-on: ubuntu-latest
+    env:
+      UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -23,8 +25,6 @@ jobs:
 
       - name: Build
         uses: game-ci/unity-builder@v4
-        env:
-          UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
         with:
           projectPath: project-underworld
           unityVersion: 6000.2.8f1
