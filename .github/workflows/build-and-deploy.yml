@@ -23,13 +23,14 @@ jobs:
 
       - name: Build
         uses: game-ci/unity-builder@v4
+        env:
+          UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
+          UNITY_EMAIL: ${{ secrets.UNITY_EMAIL }}
+          UNITY_PASSWORD: ${{ secrets.UNITY_PASSWORD }}
         with:
           projectPath: project-underworld
           unityVersion: 6000.2.8f1
           targetPlatform: WebGL
-          unityLicense: ${{ secrets.UNITY_LICENSE }}
-          unityEmail: ${{ secrets.UNITY_EMAIL }}
-          unityPassword: ${{ secrets.UNITY_PASSWORD }}
 
       - name: Upload build artifact
         uses: actions/upload-artifact@v4
