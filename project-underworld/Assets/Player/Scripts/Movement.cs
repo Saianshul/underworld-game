@@ -15,11 +15,15 @@ public class Movement : MonoBehaviour
     [Header("Jump Settings")]
     [SerializeField] private float jumpForce = 14f;
     private bool isJumping;
+
+    [Header("Colliders")]
+    [SerializeField] private Collider2D horizontalCapsuleCollider;
+    [SerializeField] private Collider2D verticalCapsuleCollider;
     
     [Header("Ground Check Settings")]
-    [SerializeField] private Transform groundCheck;
     [SerializeField] private LayerMask groundLayer;
-    [SerializeField] private float groundCheckRadius = 0.2f;
+    [SerializeField] private float groundCheckHeight = 0.1f;
+    [SerializeField] private float groundCheckDistance = 0.05f;
     private bool isGrounded;
     private bool wasGrounded;
 
@@ -28,6 +32,8 @@ public class Movement : MonoBehaviour
         rigidBody = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         isFacingRight = true;
+        isJumping = false;
+        isGrounded = true;
         wasGrounded = true;
     }
 
@@ -35,16 +41,6 @@ public class Movement : MonoBehaviour
     {
         animator.SetFloat("speed", Mathf.Abs(horizontalMove));
         animator.SetFloat("yVelocity", rigidBody.linearVelocityY);
-
-        isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
-        animator.SetBool("isGrounded", isGrounded);
-
-        if (isGrounded && !wasGrounded)
-        {
-            isJumping = false;
-        }
-
-        wasGrounded = isGrounded;
         
         if (horizontalMove < 0 && isFacingRight)
         {
@@ -61,6 +57,20 @@ public class Movement : MonoBehaviour
     private void FixedUpdate()
     {
         rigidBody.linearVelocityX = horizontalMove * moveSpeed;
+
+        Collider2D activeCollider = horizontalCapsuleCollider.gameObject.activeSelf ? horizontalCapsuleCollider : verticalCapsuleCollider;
+        Bounds colliderBounds = activeCollider.bounds;
+        Vector2 boxCenter = new Vector2(colliderBounds.center.x, colliderBounds.min.y);
+        RaycastHit2D hit = Physics2D.BoxCast(boxCenter, new Vector2(colliderBounds.size.x * 0.9f, groundCheckHeight), 0f, Vector2.down, groundCheckDistance, groundLayer);
+        isGrounded = hit.collider != null;
+        animator.SetBool("isGrounded", isGrounded);
+
+        if (isGrounded && !wasGrounded)
+        {
+            isJumping = false;
+        }
+
+        wasGrounded = isGrounded;
     }
 
     public void OnRun(InputAction.CallbackContext context)
@@ -80,16 +90,5 @@ public class Movement : MonoBehaviour
     public void ApplyJumpForce()
     {
         rigidBody.linearVelocityY = jumpForce;
-    }
-
-    private void OnDrawGizmosSelected()
-    {
-        if (groundCheck == null)
-        {
-            return;
-        }
-        
-        Gizmos.color = Color.yellow;
-        Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
     }
 }
