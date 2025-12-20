@@ -224,6 +224,7 @@ Transform:
   - {fileID: 1210879546}
   - {fileID: 1041466913}
   - {fileID: 235867219}
+  - {fileID: 1671244301}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!50 &279036010
@@ -331,6 +332,22 @@ MonoBehaviour:
         m_CallState: 2
     m_ActionId: c439cc7e-a864-4095-b6d6-2c32b080ea54
     m_ActionName: 'Player/Jump[/Keyboard/z]'
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 279036011}
+        m_TargetAssemblyTypeName: Movement, Assembly-CSharp
+        m_MethodName: OnForwardSlash
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_ActionId: 029d7c61-896d-4f3d-af9f-8903a9d2f863
+    m_ActionName: 'Player/ForwardSlash[/Keyboard/x]'
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: 
   m_DefaultActionMap: Player
@@ -1285,6 +1302,124 @@ Transform:
   - {fileID: 849846262}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1671244300
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1671244301}
+  - component: {fileID: 1671244302}
+  m_Layer: 0
+  m_Name: ForwardSlashPolygonCollider
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1671244301
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1671244300}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 279036008}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!60 &1671244302
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1671244300}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.5308107, y: 0.90575296}
+      - {x: 0.031690598, y: 0.9051988}
+      - {x: -0.59339887, y: -0.03185928}
+      - {x: -1.0940586, y: -0.78149146}
+      - {x: -0.7187859, y: -0.78158367}
+      - {x: -0.7189352, y: -0.8353414}
+      - {x: 0.53078794, y: -0.83551407}
+      - {x: 0.53112996, y: -0.7813638}
+      - {x: 0.7186228, y: -0.78138095}
+      - {x: 0.71862805, y: -0.7188715}
+      - {x: 0.78113556, y: -0.71887475}
+      - {x: 0.78112787, y: -0.6563714}
+      - {x: 0.8436277, y: -0.6563721}
+      - {x: 0.84362787, y: -0.5938731}
+      - {x: 0.90612835, y: -0.593871}
+      - {x: 0.9061251, y: -0.5313713}
+      - {x: 0.9686284, y: -0.5313513}
+      - {x: 0.9686354, y: -0.4689836}
+      - {x: 1.0312018, y: -0.4688869}
+      - {x: 1.0311897, y: -0.40631694}
+      - {x: 1.0935999, y: -0.40619954}
+      - {x: 1.0936949, y: -0.21884003}
+      - {x: 1.1561611, y: -0.21859817}
+      - {x: 1.1560786, y: 0.28101307}
+      - {x: 1.0937233, y: 0.28101784}
+      - {x: 1.0936819, y: 0.4686432}
+      - {x: 1.0311561, y: 0.4686156}
+      - {x: 1.0311458, y: 0.53106594}
+      - {x: 0.96881205, y: 0.5310446}
+      - {x: 0.9688504, y: 0.5937512}
+      - {x: 0.9060721, y: 0.593571}
+      - {x: 0.90623397, y: 0.6562942}
+      - {x: 0.84381974, y: 0.6562943}
+      - {x: 0.84376, y: 0.71830356}
+      - {x: 0.7808674, y: 0.7183131}
+      - {x: 0.7809102, y: 0.78093743}
+      - {x: 0.71852535, y: 0.7810377}
+      - {x: 0.7185827, y: 0.8434628}
+      - {x: 0.53102386, y: 0.8435258}
+  m_UseDelaunayMesh: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

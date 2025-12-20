@@ -23,6 +23,15 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
+                },
+                {
+                    "name": "ForwardSlash",
+                    "type": "Button",
+                    "id": "029d7c61-896d-4f3d-af9f-8903a9d2f863",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -69,6 +78,17 @@
                     "action": "Run",
                     "isComposite": false,
                     "isPartOfComposite": true
+                },
+                {
+                    "name": "",
+                    "id": "226170ee-a0cf-444b-92f3-3153cb4dc55d",
+                    "path": "<Keyboard>/x",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ForwardSlash",
+                    "isComposite": false,
+                    "isPartOfComposite": false
                 }
             ]
         }

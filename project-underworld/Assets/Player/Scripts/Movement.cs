@@ -27,6 +27,8 @@ public class Movement : MonoBehaviour
     private bool isGrounded;
     private bool wasGrounded;
 
+    private bool isAttacking;
+
     private void Awake()
     {
         rigidBody = GetComponent<Rigidbody2D>();
@@ -35,6 +37,7 @@ public class Movement : MonoBehaviour
         isJumping = false;
         isGrounded = true;
         wasGrounded = true;
+        isAttacking = false;
     }
 
     private void Update()
@@ -90,5 +93,19 @@ public class Movement : MonoBehaviour
     public void ApplyJumpForce()
     {
         rigidBody.linearVelocityY = jumpForce;
+    }
+
+    public void OnForwardSlash(InputAction.CallbackContext context)
+    {
+        if (context.performed && !isAttacking && isGrounded && !isJumping)
+        {
+            animator.SetTrigger("attack");
+            isAttacking = true;
+        }
+    }
+
+    public void FinishAttack()
+    {
+        isAttacking = false;
     }
 }
