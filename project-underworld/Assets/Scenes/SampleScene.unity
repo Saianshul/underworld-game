@@ -267,7 +267,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Movement
   moveSpeed: 8
-  jumpForce: 20
+  jumpForce: 11
+  maxJumpKeyDownDuration: 0.35
+  somersaultThreshold: 0.35
   horizontalCapsuleCollider: {fileID: 1041466914}
   verticalCapsuleCollider: {fileID: 235867220}
   groundLayer:

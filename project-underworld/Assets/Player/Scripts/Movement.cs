@@ -13,8 +13,12 @@ public class Movement : MonoBehaviour
     private bool isFacingRight;
 
     [Header("Jump Settings")]
-    [SerializeField] private float jumpForce = 14f;
+    [SerializeField] private float jumpForce;
+    [SerializeField] private float maxJumpKeyDownDuration;
+    [SerializeField] private float somersaultThreshold;
     private bool isJumping;
+    private float jumpKeyDownDuration;
+    private bool doSomersault;
 
     [Header("Colliders")]
     [SerializeField] private Collider2D horizontalCapsuleCollider;
@@ -66,6 +70,7 @@ public class Movement : MonoBehaviour
         Vector2 boxCenter = new Vector2(colliderBounds.center.x, colliderBounds.min.y);
         RaycastHit2D hit = Physics2D.BoxCast(boxCenter, new Vector2(colliderBounds.size.x * 0.9f, groundCheckHeight), 0f, Vector2.down, groundCheckDistance, groundLayer);
         isGrounded = hit.collider != null;
+
         animator.SetBool("isGrounded", isGrounded);
 
         if (isGrounded && !wasGrounded)
@@ -74,6 +79,25 @@ public class Movement : MonoBehaviour
         }
 
         wasGrounded = isGrounded;
+
+        if (isJumping)
+        {
+            if (jumpKeyDownDuration < maxJumpKeyDownDuration)
+            {
+                rigidBody.linearVelocityY = jumpForce;
+                jumpKeyDownDuration += Time.deltaTime;
+
+                if (jumpKeyDownDuration >= somersaultThreshold)
+                {
+                    doSomersault = true;
+                    animator.SetBool("doSomersault", doSomersault);
+                }
+            }
+            else
+            {
+                isJumping = false;
+            }
+        }
     }
 
     public void OnRun(InputAction.CallbackContext context)
@@ -83,24 +107,29 @@ public class Movement : MonoBehaviour
 
     public void OnJump(InputAction.CallbackContext context)
     {
-        if (context.performed && isGrounded && !isJumping)
+        if (context.started && isGrounded && !isJumping)
         {
-            animator.SetTrigger("jump");
             isJumping = true;
-        }
-    }
+            doSomersault = false;
+            rigidBody.linearVelocityY = jumpForce;
+            jumpKeyDownDuration = 0;
 
-    public void ApplyJumpForce()
-    {
-        rigidBody.linearVelocityY = jumpForce;
+            animator.SetTrigger("jump");
+            animator.SetBool("doSomersault", doSomersault);
+        }
+
+        if (context.canceled)
+        {
+            isJumping = false;
+        }
     }
 
     public void OnForwardSlash(InputAction.CallbackContext context)
     {
         if (context.performed && !isAttacking && isGrounded && !isJumping)
         {
-            animator.SetTrigger("attack");
             isAttacking = true;
+            animator.SetTrigger("attack");
         }
     }
 
