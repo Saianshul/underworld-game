@@ -39,6 +39,8 @@ public class Movement : MonoBehaviour
         animator = GetComponent<Animator>();
         isFacingRight = true;
         isJumping = false;
+        jumpKeyDownDuration = 0;
+        doSomersault = false;
         isGrounded = true;
         wasGrounded = true;
         isAttacking = false;
@@ -76,6 +78,9 @@ public class Movement : MonoBehaviour
         if (isGrounded && !wasGrounded)
         {
             isJumping = false;
+            jumpKeyDownDuration = 0;
+            doSomersault = false;
+            animator.SetBool("doSomersault", false);
         }
 
         wasGrounded = isGrounded;
@@ -90,7 +95,7 @@ public class Movement : MonoBehaviour
                 if (jumpKeyDownDuration >= somersaultThreshold)
                 {
                     doSomersault = true;
-                    animator.SetBool("doSomersault", doSomersault);
+                    animator.SetBool("doSomersault", true);
                 }
             }
             else
@@ -107,15 +112,12 @@ public class Movement : MonoBehaviour
 
     public void OnJump(InputAction.CallbackContext context)
     {
-        if (context.started && isGrounded && !isJumping)
+        if (context.started && isGrounded && !isJumping && !isAttacking)
         {
             isJumping = true;
-            doSomersault = false;
             rigidBody.linearVelocityY = jumpForce;
-            jumpKeyDownDuration = 0;
 
             animator.SetTrigger("jump");
-            animator.SetBool("doSomersault", doSomersault);
         }
 
         if (context.canceled)
@@ -124,9 +126,9 @@ public class Movement : MonoBehaviour
         }
     }
 
-    public void OnForwardSlash(InputAction.CallbackContext context)
+    public void OnAttack(InputAction.CallbackContext context)
     {
-        if (context.performed && !isAttacking && isGrounded && !isJumping)
+        if (context.performed && !isAttacking)
         {
             isAttacking = true;
             animator.SetTrigger("attack");

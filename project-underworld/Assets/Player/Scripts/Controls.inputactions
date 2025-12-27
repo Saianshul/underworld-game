@@ -25,7 +25,7 @@
                     "initialStateCheck": false
                 },
                 {
-                    "name": "ForwardSlash",
+                    "name": "Attack",
                     "type": "Button",
                     "id": "029d7c61-896d-4f3d-af9f-8903a9d2f863",
                     "expectedControlType": "",
@@ -86,7 +86,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "ForwardSlash",
+                    "action": "Attack",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
