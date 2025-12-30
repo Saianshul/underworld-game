@@ -26,6 +26,7 @@ public class Movement : MonoBehaviour
     [SerializeField] private Collider2D forwardSlashPolygonCollider;
     [SerializeField] private Collider2D forwardAirSlashPolygonCollider;
     [SerializeField] private Collider2D downAirSlashPolygonCollider;
+    [SerializeField] private Collider2D upAirSlashPolygonCollider;
     
     [Header("Ground Check Settings")]
     [SerializeField] private LayerMask groundLayer;
@@ -88,9 +89,13 @@ public class Movement : MonoBehaviour
         {
             activeCollider = forwardAirSlashPolygonCollider;
         }
-        else
+        else if (downAirSlashPolygonCollider.gameObject.activeSelf)
         {
             activeCollider = downAirSlashPolygonCollider;
+        }
+        else
+        {
+            activeCollider = upAirSlashPolygonCollider;
         }
 
         Bounds colliderBounds = activeCollider.bounds;
@@ -161,6 +166,10 @@ public class Movement : MonoBehaviour
             {
                 animator.SetTrigger("pogo");
             }
+            else if (moveInput.y > 0 && !isGrounded && Mathf.Abs(rigidBody.linearVelocityY) > 0.1f)
+            {
+                animator.SetTrigger("upAir");
+            }
             else
             {
                 animator.SetTrigger("attack");
@@ -173,5 +182,6 @@ public class Movement : MonoBehaviour
         isAttacking = false;
         animator.ResetTrigger("attack");
         animator.ResetTrigger("pogo");
+        animator.ResetTrigger("upAir");
     }
 }
