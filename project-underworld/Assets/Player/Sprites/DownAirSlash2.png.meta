@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: be35dc11010ced143876cc6617219e8f
+guid: 3dbafa309f48fdd47be815c1b1c38a66
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7641292675352275079
-    second: air-attack-3-end-02_0
+      213: -8008016667209411013
+    second: air-attack-3-end-01_0
+  - first:
+      213: 1395727748757606588
+    second: air-attack-3-end-01_1
+  - first:
+      213: -8576264943533735439
+    second: air-attack-3-end-01_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +119,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: air-attack-3-end-02_0
+      name: DownAirSlash2
       rect:
         serializedVersion: 2
-        x: 1
+        x: 3
         y: 0
-        width: 48
-        height: 24
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 97755dc0ccca4f590800000000000000
-      internalID: -7641292675352275079
+      spriteID: cb05adb1efe9e5310800000000000000
+      internalID: 1395727748757606588
       vertices: []
       indices: 
       edges: []
@@ -138,7 +144,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: bf1445594df58f24591fd01cf3d1795c
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +154,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      air-attack-3-end-02_0: -7641292675352275079
+      DownAirSlash2: 1395727748757606588
+      DownAirSlash2Effect1: -8008016667209411013
+      DownAirSlash2Effect2: -8576264943533735439
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

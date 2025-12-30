@@ -188,6 +188,122 @@ CapsuleCollider2D:
   m_Offset: {x: 0, y: 0}
   m_Size: {x: 0.5, y: 1}
   m_Direction: 0
+--- !u!1 &259467972
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 259467973}
+  - component: {fileID: 259467974}
+  m_Layer: 0
+  m_Name: DownAirSlashPolygonCollider
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &259467973
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 259467972}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 279036008}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!60 &259467974
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 259467972}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.062636375, y: -0.09457247}
+      - {x: -1.0631189, y: 0.40631017}
+      - {x: -1.0626184, y: 0.15613064}
+      - {x: -1.0000957, y: 0.15611255}
+      - {x: -1.0001179, y: -0.0938195}
+      - {x: -0.937518, y: -0.093732744}
+      - {x: -0.9376203, y: -0.2813359}
+      - {x: -0.87504494, y: -0.2814669}
+      - {x: -0.87510574, y: -0.4688386}
+      - {x: -0.81260145, y: -0.4688755}
+      - {x: -0.81260216, y: -0.5313692}
+      - {x: -0.75010264, y: -0.5313692}
+      - {x: -0.75013864, y: -0.7188506}
+      - {x: -0.68759835, y: -0.71891236}
+      - {x: -0.687616, y: -0.78135955}
+      - {x: -0.6251315, y: -0.7814495}
+      - {x: -0.62509406, y: -0.84389895}
+      - {x: -0.5001062, y: -0.8438954}
+      - {x: -0.5001198, y: -0.9688746}
+      - {x: -0.4375993, y: -0.9688681}
+      - {x: -0.43763077, y: -1.0313294}
+      - {x: -0.3751278, y: -1.0313984}
+      - {x: -0.37517482, y: -1.0936444}
+      - {x: 0.43734586, y: -1.0938368}
+      - {x: 0.437392, y: -1.031379}
+      - {x: 0.5623875, y: -1.0313898}
+      - {x: 0.5623503, y: -0.9688671}
+      - {x: 0.6248656, y: -0.9688586}
+      - {x: 0.6248822, y: -0.9063636}
+      - {x: 0.6873689, y: -0.9063253}
+      - {x: 0.68736273, y: -0.8438539}
+      - {x: 0.7498718, y: -0.84387}
+      - {x: 0.74986553, y: -0.7188915}
+      - {x: 0.8123691, y: -0.7187737}
+      - {x: 0.8123748, y: -0.40642765}
+      - {x: 0.8748503, y: -0.40634254}
+      - {x: 0.8747862, y: 0.34364074}
+  m_UseDelaunayMesh: 0
 --- !u!1 &279036005
 GameObject:
   m_ObjectHideFlags: 0
@@ -226,6 +342,7 @@ Transform:
   - {fileID: 235867219}
   - {fileID: 1671244301}
   - {fileID: 1381103607}
+  - {fileID: 259467973}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!50 &279036010
@@ -273,11 +390,14 @@ MonoBehaviour:
   somersaultThreshold: 0.35
   horizontalCapsuleCollider: {fileID: 1041466914}
   verticalCapsuleCollider: {fileID: 235867220}
+  forwardSlashPolygonCollider: {fileID: 1671244302}
+  forwardAirSlashPolygonCollider: {fileID: 1381103608}
+  downAirSlashPolygonCollider: {fileID: 259467974}
   groundLayer:
     serializedVersion: 2
     m_Bits: 8
   groundCheckHeight: 0.1
-  groundCheckDistance: 0.05
+  groundCheckDistance: 0.1
 --- !u!114 &279036012
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -307,7 +427,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 279036011}
         m_TargetAssemblyTypeName: Movement, Assembly-CSharp
-        m_MethodName: OnRun
+        m_MethodName: OnMove
         m_Mode: 0
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1254,7 +1374,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1.3125, y: 1.9375}
+  m_Size: {x: 2.25, y: 2.3125}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1

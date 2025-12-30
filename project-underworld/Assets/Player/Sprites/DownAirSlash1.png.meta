@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: 3dbafa309f48fdd47be815c1b1c38a66
+guid: 040db09eb422a0c4c91b1ecd18821f9a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8008016667209411013
-    second: air-attack-3-end-01_0
+      213: -188707046592107488
+    second: DownAirSlash1Edited_0
   - first:
-      213: 1395727748757606588
-    second: air-attack-3-end-01_1
+      213: -8863060268486841208
+    second: DownAirSlash1Edited_1
   - first:
-      213: -8576264943533735439
-    second: air-attack-3-end-01_2
+      213: -4440807459246264603
+    second: DownAirSlash1Edited_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -119,67 +119,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: air-attack-3-end-01_0
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 0
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b36539bf44fcdd090800000000000000
-      internalID: -8008016667209411013
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: air-attack-3-end-01_1
+      name: DownAirSlash1
       rect:
         serializedVersion: 2
         x: 3
         y: 0
-        width: 32
-        height: 32
+        width: 36
+        height: 37
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cb05adb1efe9e5310800000000000000
-      internalID: 1395727748757606588
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: air-attack-3-end-01_2
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 0
-        width: 9
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1f1490d097cfaf880800000000000000
-      internalID: -8576264943533735439
+      spriteID: 88ca6f1f4a5100580800000000000000
+      internalID: -8863060268486841208
       vertices: []
       indices: 
       edges: []
@@ -188,7 +144,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 4bb46ed589037d746a33c6c501b7c8fd
     internalID: 0
     vertices: []
     indices: 
@@ -198,9 +154,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      air-attack-3-end-01_0: -8008016667209411013
-      air-attack-3-end-01_1: 1395727748757606588
-      air-attack-3-end-01_2: -8576264943533735439
+      DownAirSlash1: -8863060268486841208
+      DownAirSlash1Edited_0: -188707046592107488
+      DownAirSlash1Edited_2: -4440807459246264603
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

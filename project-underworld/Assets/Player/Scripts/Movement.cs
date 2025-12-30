@@ -9,7 +9,7 @@ public class Movement : MonoBehaviour
 
     [Header("Horizontal Movement Settings")]
     [SerializeField] private float moveSpeed = 7f;
-    private float horizontalMove;
+    private Vector2 moveInput;
     private bool isFacingRight;
 
     [Header("Jump Settings")]
@@ -23,6 +23,9 @@ public class Movement : MonoBehaviour
     [Header("Colliders")]
     [SerializeField] private Collider2D horizontalCapsuleCollider;
     [SerializeField] private Collider2D verticalCapsuleCollider;
+    [SerializeField] private Collider2D forwardSlashPolygonCollider;
+    [SerializeField] private Collider2D forwardAirSlashPolygonCollider;
+    [SerializeField] private Collider2D downAirSlashPolygonCollider;
     
     [Header("Ground Check Settings")]
     [SerializeField] private LayerMask groundLayer;
@@ -48,15 +51,15 @@ public class Movement : MonoBehaviour
 
     private void Update()
     {
-        animator.SetFloat("speed", Mathf.Abs(horizontalMove));
+        animator.SetFloat("speed", Mathf.Abs(moveInput.x));
         animator.SetFloat("yVelocity", rigidBody.linearVelocityY);
         
-        if (horizontalMove < 0 && isFacingRight)
+        if (moveInput.x < 0 && isFacingRight)
         {
             isFacingRight = false;
             transform.localScale = new Vector3(-2, 2, 2);
         }
-        else if (horizontalMove > 0 && !isFacingRight)
+        else if (moveInput.x > 0 && !isFacingRight)
         {
             isFacingRight = true;
             transform.localScale = new Vector3(2, 2, 2);
@@ -65,9 +68,31 @@ public class Movement : MonoBehaviour
 
     private void FixedUpdate()
     {
-        rigidBody.linearVelocityX = horizontalMove * moveSpeed;
+        rigidBody.linearVelocityX = moveInput.x * moveSpeed;
 
-        Collider2D activeCollider = horizontalCapsuleCollider.gameObject.activeSelf ? horizontalCapsuleCollider : verticalCapsuleCollider;
+        Collider2D activeCollider;
+
+        if (horizontalCapsuleCollider.gameObject.activeSelf)
+        {
+            activeCollider = horizontalCapsuleCollider;
+        }
+        else if (verticalCapsuleCollider.gameObject.activeSelf)
+        {
+            activeCollider = verticalCapsuleCollider;
+        }
+        else if (forwardSlashPolygonCollider.gameObject.activeSelf)
+        {
+            activeCollider = forwardSlashPolygonCollider;
+        }
+        else if (forwardAirSlashPolygonCollider.gameObject.activeSelf)
+        {
+            activeCollider = forwardAirSlashPolygonCollider;
+        }
+        else
+        {
+            activeCollider = downAirSlashPolygonCollider;
+        }
+
         Bounds colliderBounds = activeCollider.bounds;
         Vector2 boxCenter = new Vector2(colliderBounds.center.x, colliderBounds.min.y);
         RaycastHit2D hit = Physics2D.BoxCast(boxCenter, new Vector2(colliderBounds.size.x * 0.9f, groundCheckHeight), 0f, Vector2.down, groundCheckDistance, groundLayer);
@@ -105,9 +130,9 @@ public class Movement : MonoBehaviour
         }
     }
 
-    public void OnRun(InputAction.CallbackContext context)
+    public void OnMove(InputAction.CallbackContext context)
     {
-        horizontalMove = context.ReadValue<float>();
+        moveInput = context.ReadValue<Vector2>();
     }
 
     public void OnJump(InputAction.CallbackContext context)
@@ -131,12 +156,22 @@ public class Movement : MonoBehaviour
         if (context.performed && !isAttacking)
         {
             isAttacking = true;
-            animator.SetTrigger("attack");
+
+            if (moveInput.y < 0 && !isGrounded && Mathf.Abs(rigidBody.linearVelocityY) > 0.1f)
+            {
+                animator.SetTrigger("pogo");
+            }
+            else
+            {
+                animator.SetTrigger("attack");
+            }
         }
     }
 
     public void FinishAttack()
     {
         isAttacking = false;
+        animator.ResetTrigger("attack");
+        animator.ResetTrigger("pogo");
     }
 }
