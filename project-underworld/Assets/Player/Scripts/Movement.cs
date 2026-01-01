@@ -8,7 +8,7 @@ public class Movement : MonoBehaviour
     private Animator animator;
 
     [Header("Horizontal Movement Settings")]
-    [SerializeField] private float moveSpeed = 7f;
+    [SerializeField] private float moveSpeed;
     private Vector2 moveInput;
     private bool isFacingRight;
 
@@ -27,15 +27,18 @@ public class Movement : MonoBehaviour
     [SerializeField] private Collider2D forwardAirSlashPolygonCollider;
     [SerializeField] private Collider2D downAirSlashPolygonCollider;
     [SerializeField] private Collider2D upAirSlashPolygonCollider;
+    [SerializeField] private Collider2D castPolygonCollider;
     
     [Header("Ground Check Settings")]
     [SerializeField] private LayerMask groundLayer;
-    [SerializeField] private float groundCheckHeight = 0.1f;
-    [SerializeField] private float groundCheckDistance = 0.05f;
+    [SerializeField] private float groundCheckHeight;
+    [SerializeField] private float groundCheckDistance;
     private bool isGrounded;
     private bool wasGrounded;
 
     private bool isAttacking;
+    private bool isCasting;
+    private const float DEFAULT_GRAVITY_SCALE = 3;
 
     private void Awake()
     {
@@ -48,6 +51,7 @@ public class Movement : MonoBehaviour
         isGrounded = true;
         wasGrounded = true;
         isAttacking = false;
+        isCasting = false;
     }
 
     private void Update()
@@ -55,21 +59,31 @@ public class Movement : MonoBehaviour
         animator.SetFloat("speed", Mathf.Abs(moveInput.x));
         animator.SetFloat("yVelocity", rigidBody.linearVelocityY);
         
-        if (moveInput.x < 0 && isFacingRight)
+        if (!isCasting)
         {
-            isFacingRight = false;
-            transform.localScale = new Vector3(-2, 2, 2);
-        }
-        else if (moveInput.x > 0 && !isFacingRight)
-        {
-            isFacingRight = true;
-            transform.localScale = new Vector3(2, 2, 2);
+            if (moveInput.x < 0 && isFacingRight)
+            {
+                isFacingRight = false;
+                transform.localScale = new Vector3(-2, 2, 2);
+            }
+            else if (moveInput.x > 0 && !isFacingRight)
+            {
+                isFacingRight = true;
+                transform.localScale = new Vector3(2, 2, 2);
+            }
         }
     }
 
     private void FixedUpdate()
     {
-        rigidBody.linearVelocityX = moveInput.x * moveSpeed;
+        if (isCasting)
+        {
+            rigidBody.linearVelocity = Vector2.zero;
+        }
+        else
+        {
+            rigidBody.linearVelocityX = moveInput.x * moveSpeed;
+        }
 
         Collider2D activeCollider;
 
@@ -93,9 +107,13 @@ public class Movement : MonoBehaviour
         {
             activeCollider = downAirSlashPolygonCollider;
         }
-        else
+        else if (upAirSlashPolygonCollider.gameObject.activeSelf)
         {
             activeCollider = upAirSlashPolygonCollider;
+        }
+        else
+        {
+            activeCollider = castPolygonCollider;
         }
 
         Bounds colliderBounds = activeCollider.bounds;
@@ -109,8 +127,6 @@ public class Movement : MonoBehaviour
         {
             isJumping = false;
             jumpKeyDownDuration = 0;
-            doSomersault = false;
-            animator.SetBool("doSomersault", false);
         }
 
         wasGrounded = isGrounded;
@@ -177,11 +193,32 @@ public class Movement : MonoBehaviour
         }
     }
 
+    public void OnCast(InputAction.CallbackContext context)
+    {
+        if (context.performed && !isAttacking && !doSomersault)
+        {
+            isAttacking = true;
+            isCasting = true;
+            isJumping = false;
+            rigidBody.gravityScale = 0.01f;
+            animator.SetTrigger("cast");
+        }
+    }
+
     public void FinishAttack()
     {
         isAttacking = false;
+        isCasting = false;
+        rigidBody.gravityScale = DEFAULT_GRAVITY_SCALE;
         animator.ResetTrigger("attack");
         animator.ResetTrigger("pogo");
         animator.ResetTrigger("upAir");
+        animator.ResetTrigger("cast");
+    }
+
+    public void FinishSomersault()
+    {
+        doSomersault = false;
+        animator.SetBool("doSomersault", false);
     }
 }
