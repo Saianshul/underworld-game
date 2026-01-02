@@ -1,8 +1,7 @@
-using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class Movement : MonoBehaviour
+public class Moves : MonoBehaviour
 {
     private Rigidbody2D rigidBody;
     private Animator animator;
@@ -18,7 +17,6 @@ public class Movement : MonoBehaviour
     [SerializeField] private float somersaultThreshold;
     private bool isJumping;
     private float jumpKeyDownDuration;
-    private bool doSomersault;
 
     [Header("Colliders")]
     [SerializeField] private Collider2D horizontalCapsuleCollider;
@@ -43,6 +41,8 @@ public class Movement : MonoBehaviour
     [Header("Spell Settings")]
     [SerializeField] private GameObject spellPrefab;
     [SerializeField] private Transform firePoint;
+    [SerializeField] private float castCooldown;
+    private float prevCastTime;
 
     private void Awake()
     {
@@ -51,11 +51,11 @@ public class Movement : MonoBehaviour
         isFacingRight = true;
         isJumping = false;
         jumpKeyDownDuration = 0;
-        doSomersault = false;
         isGrounded = true;
         wasGrounded = true;
         isAttacking = false;
         isCasting = false;
+        prevCastTime = -1;
     }
 
     private void Update()
@@ -144,7 +144,6 @@ public class Movement : MonoBehaviour
 
                 if (jumpKeyDownDuration >= somersaultThreshold)
                 {
-                    doSomersault = true;
                     animator.SetBool("doSomersault", true);
                 }
             }
@@ -153,6 +152,11 @@ public class Movement : MonoBehaviour
                 isJumping = false;
             }
         }
+    }
+
+    public void FinishSomersault()
+    {
+        animator.SetBool("doSomersault", false);
     }
 
     public void OnMove(InputAction.CallbackContext context)
@@ -199,15 +203,20 @@ public class Movement : MonoBehaviour
 
     public void OnCast(InputAction.CallbackContext context)
     {
-        if (context.performed && !isAttacking && !doSomersault)
+        if (context.performed && !isAttacking && Time.time >= prevCastTime + castCooldown)
         {
-            isAttacking = true;
-            isCasting = true;
-            isJumping = false;
-            rigidBody.gravityScale = 0.01f;
-            transform.position += new Vector3(0, -0.1f, 0);
+            prevCastTime = Time.time;
             animator.SetTrigger("cast");
         }
+    }
+
+    public void StartCast()
+    {
+        isAttacking = true;
+        isCasting = true;
+        isJumping = false;
+        rigidBody.gravityScale = 0.01f;
+        transform.position += new Vector3(0, -0.1f, 0);
     }
 
     public void CastSpell()
@@ -226,11 +235,5 @@ public class Movement : MonoBehaviour
         animator.ResetTrigger("pogo");
         animator.ResetTrigger("upAir");
         animator.ResetTrigger("cast");
-    }
-
-    public void FinishSomersault()
-    {
-        doSomersault = false;
-        animator.SetBool("doSomersault", false);
     }
 }

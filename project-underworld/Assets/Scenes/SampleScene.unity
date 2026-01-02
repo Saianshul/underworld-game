@@ -405,6 +405,7 @@ MonoBehaviour:
   groundCheckDistance: 0.1
   spellPrefab: {fileID: 7027833519003236250, guid: 471c332eaec0d014185bc5bcc06591a7, type: 3}
   firePoint: {fileID: 1105340897}
+  castCooldown: 0.5
 --- !u!114 &279036012
 MonoBehaviour:
   m_ObjectHideFlags: 0
