@@ -1,9 +1,9 @@
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
 public class Movement : MonoBehaviour
 {
-    [Header("Components")]
     private Rigidbody2D rigidBody;
     private Animator animator;
 
@@ -39,6 +39,10 @@ public class Movement : MonoBehaviour
     private bool isAttacking;
     private bool isCasting;
     private const float DEFAULT_GRAVITY_SCALE = 3;
+
+    [Header("Spell Settings")]
+    [SerializeField] private GameObject spellPrefab;
+    [SerializeField] private Transform firePoint;
 
     private void Awake()
     {
@@ -201,8 +205,16 @@ public class Movement : MonoBehaviour
             isCasting = true;
             isJumping = false;
             rigidBody.gravityScale = 0.01f;
+            transform.position += new Vector3(0, -0.1f, 0);
             animator.SetTrigger("cast");
         }
+    }
+
+    public void CastSpell()
+    {
+        GameObject spell = Instantiate(spellPrefab, firePoint.position, firePoint.rotation);
+        float direction = transform.localScale.x > 0 ? 1f : -1f;
+        spell.GetComponent<Spell>().Cast(direction);
     }
 
     public void FinishAttack()
