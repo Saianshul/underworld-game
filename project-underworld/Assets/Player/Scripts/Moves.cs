@@ -36,13 +36,21 @@ public class Moves : MonoBehaviour
 
     private bool isAttacking;
     private bool isCasting;
-    private const float DEFAULT_GRAVITY_SCALE = 3;
 
     [Header("Spell Settings")]
     [SerializeField] private GameObject spellPrefab;
     [SerializeField] private Transform firePoint;
     [SerializeField] private float castCooldown;
     private float prevCastTime;
+
+    private const float PLAYER_X_SCALE = 2;
+    private const float PLAYER_Y_SCALE = 2;
+    private const float PLAYER_Z_SCALE = 2;
+    private const float GROUND_CHECK_WIDTH_REDUCING_FACTOR = 0.9f;
+    private const float AIR_SLASH_Y_VELOCITY_THRESHOLD = 0.1f;
+    private const float DEFAULT_GRAVITY_SCALE = 3;
+    private const float CAST_GRAVITY_SCALE = 0.01f;
+    private const float CAST_Y_OFFSET = -0.1f;
 
     private void Awake()
     {
@@ -68,12 +76,12 @@ public class Moves : MonoBehaviour
             if (moveInput.x < 0 && isFacingRight)
             {
                 isFacingRight = false;
-                transform.localScale = new Vector3(-2, 2, 2);
+                transform.localScale = new Vector3(-PLAYER_X_SCALE, PLAYER_Y_SCALE, PLAYER_Z_SCALE);
             }
             else if (moveInput.x > 0 && !isFacingRight)
             {
                 isFacingRight = true;
-                transform.localScale = new Vector3(2, 2, 2);
+                transform.localScale = new Vector3(PLAYER_X_SCALE, PLAYER_Y_SCALE, PLAYER_Z_SCALE);
             }
         }
     }
@@ -122,7 +130,7 @@ public class Moves : MonoBehaviour
 
         Bounds colliderBounds = activeCollider.bounds;
         Vector2 boxCenter = new Vector2(colliderBounds.center.x, colliderBounds.min.y);
-        RaycastHit2D hit = Physics2D.BoxCast(boxCenter, new Vector2(colliderBounds.size.x * 0.9f, groundCheckHeight), 0f, Vector2.down, groundCheckDistance, groundLayer);
+        RaycastHit2D hit = Physics2D.BoxCast(boxCenter, new Vector2(colliderBounds.size.x * GROUND_CHECK_WIDTH_REDUCING_FACTOR, groundCheckHeight), 0, Vector2.down, groundCheckDistance, groundLayer);
         isGrounded = hit.collider != null;
 
         animator.SetBool("isGrounded", isGrounded);
@@ -186,17 +194,17 @@ public class Moves : MonoBehaviour
         {
             isAttacking = true;
 
-            if (moveInput.y < 0 && !isGrounded && Mathf.Abs(rigidBody.linearVelocityY) > 0.1f)
+            if (moveInput.y < 0 && !isGrounded && Mathf.Abs(rigidBody.linearVelocityY) > AIR_SLASH_Y_VELOCITY_THRESHOLD)
             {
                 animator.SetTrigger("pogo");
             }
-            else if (moveInput.y > 0 && !isGrounded && Mathf.Abs(rigidBody.linearVelocityY) > 0.1f)
+            else if (moveInput.y > 0 && !isGrounded && Mathf.Abs(rigidBody.linearVelocityY) > AIR_SLASH_Y_VELOCITY_THRESHOLD)
             {
                 animator.SetTrigger("upAir");
             }
             else
             {
-                animator.SetTrigger("attack");
+                animator.SetTrigger("fSlashes");
             }
         }
     }
@@ -215,8 +223,8 @@ public class Moves : MonoBehaviour
         isAttacking = true;
         isCasting = true;
         isJumping = false;
-        rigidBody.gravityScale = 0.01f;
-        transform.position += new Vector3(0, -0.1f, 0);
+        rigidBody.gravityScale = CAST_GRAVITY_SCALE;
+        transform.position += new Vector3(0, CAST_Y_OFFSET, 0);
     }
 
     public void CastSpell()
@@ -231,7 +239,7 @@ public class Moves : MonoBehaviour
         isAttacking = false;
         isCasting = false;
         rigidBody.gravityScale = DEFAULT_GRAVITY_SCALE;
-        animator.ResetTrigger("attack");
+        animator.ResetTrigger("fSlashes");
         animator.ResetTrigger("pogo");
         animator.ResetTrigger("upAir");
         animator.ResetTrigger("cast");
